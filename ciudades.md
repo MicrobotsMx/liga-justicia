@@ -2,9 +2,4 @@
 
 1. Ciudad Gótica
 2. Metrópolis
-<<<<<<< HEAD
-
-=======
-3. Hell's Kitchen
-4. Paleta
->>>>>>> 3ca6c1c (Ciudades y heroes actualizados)
+3. Paleta
